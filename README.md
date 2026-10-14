@@ -8,10 +8,9 @@
 ---
 
 ## 👥 Team Members
-- **Aman Raj**
-- **Ankit Raj**
-- **Anish Kumar**
-- **Rohit Kumar**
+- **Prince Mayank Ranjan**
+- **Bishwanath Kumar**
+- **Ujawal Mishra**
 
 ---
 
@@ -181,9 +180,7 @@ npm run start
 ## 🤝 Acknowledgments & Team
 
 Designed and developed with ❤️ for local Indian artisans and small business owners by:
-- **Aman Raj**
-- **Ankit Raj**
-- **Anish Kumar**
-- **Rohit Kumar**
-
+- **Prince Mayank Ranjan**
+- **Bishwanath Kumar**
+- **Ujawal Mishra**
 *Thank you for supporting LokKart and empowering local businesses!*
